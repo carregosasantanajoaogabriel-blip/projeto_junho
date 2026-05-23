@@ -23,7 +23,7 @@ body {
 }
 
 .section-home {
-    background: linear-gradient(to bottom, pink, #6f9cff);
+    background: linear-gradient(to bottom, rgb(255, 117, 168), rgb(2, 190, 253));
 }
 
 .section-alt {
